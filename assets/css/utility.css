@@ -1,0 +1,13 @@
+
+.f {
+    display: flex;
+}
+.g {
+    display: grid;
+}
+.jc-b {
+    justify-content: space-between;
+}
+.ai-c {
+    align-items: center;
+}
